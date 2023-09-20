@@ -36,7 +36,7 @@ I'm proficient in Java, JavaScript, HTML5, the JavaScript DOM, Angular, CSS, PHP
 
 * Email: mahad.abdullahi@example.com
 * GitHub: [heyitsmahad](https://github.com/heyitsmahad)
-* LinkedIn: [Mahad Abdullahi](https://www.linkedin.com/in/mahad-abdullahi/)
+* LinkedIn: [Mahad Abdullahi](https://www.linkedin.com/in/mahad-abdullahi-262b56228/)
 
 ## ⚡ Fun fact
 
